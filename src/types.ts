@@ -126,6 +126,8 @@ export type Network =
   | 'xdai'
   | 'matic-main'
   | 'matic-amoy'
+  | 'arbitrum'
+  | 'arbitrum-sepolia'
   | 'local'
 
 export type Status =

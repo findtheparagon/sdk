@@ -4,7 +4,9 @@ export const networks: { [key: string]: { [key: string]: string } } = {
     '11155111': 'sepolia',
     '100': 'xdai',
     '137': 'matic-main',
-    '80002': 'matic-amoy'
+    '80002': 'matic-amoy',
+    '421614': 'arbitrum-sepolia',
+    '42161': 'arbitrum'
   }
 }
 
